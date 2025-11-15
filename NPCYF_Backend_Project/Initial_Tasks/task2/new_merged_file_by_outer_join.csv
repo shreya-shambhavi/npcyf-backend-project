@@ -1,8 +1,0 @@
-id,firstname,lastname,age,city,occupation,salarypermonth
-1,Shreya,Shambhavi,21.0,New Delhi,Engineer,70000.0
-2,Shrestha,Ria,19.0,Mumbai,,
-3,Aayushi,Kant,24.0,Chennai,Doctor,120000.0
-4,Paakhi,Mitra,25.0,Kolkata,Nurse,60000.0
-5,Vandna,Goswami,24.0,Bangalore,,
-8,,,,,Scientist,90000.0
-10,,,,,Artist,50000.0
